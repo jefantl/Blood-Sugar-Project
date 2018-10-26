@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1540176203 source:c:\users\jason\documents\school\comp sci\codeblock projects\blood sugar final\main.cpp
+	<iostream>
+	<list>
+	<string>
+	<sstream>
+
+1539713546 c:\users\jason\documents\school\comp sci\codeblock projects\blood sugar final\bignumber.h
+	<vector>
+	<string>
+	<iostream>
+
+1539715990 c:\users\jason\documents\school\comp sci\codeblock projects\blood sugar final\bigdecimal.h
+	<string>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<limits.h>
+
